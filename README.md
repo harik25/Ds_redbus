@@ -21,3 +21,24 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harik25&show_icons=true&locale=en" alt="harik25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harik25&" alt="harik25" /></p>
+
+## [YouTube Data Extraction](https://github.com/yourusername/yourrepo) - 
+<span style="font-size:4px;">Python-based script to extract data from YouTube using the YouTube API</span> | ![Python](https://img.shields.io/badge/python-blue)
+
+## [AECC Website Data Scraping](https://github.com/yourusername/yourrepo) - 
+<span style="font-size:4px;">Data scraping from the AECC website using UiPath's data scraping capabilities</span> | ![UiPath](https://img.shields.io/badge/UiPath-orange) ![Data Scraping](https://img.shields.io/badge/Data_Scraping-orange)
+
+## [Client Security Hash](https://github.com/yourusername/yourrepo) - 
+<span style="font-size:4px;">UiPath Academy project for generating and verifying client security hashes</span> | ![UiPath](https://img.shields.io/badge/UiPath-orange) ![Academy Project](https://img.shields.io/badge/Academy_Project-blue)
+
+## [Generate Yearly Report](https://github.com/yourusername/yourrepo) - 
+<span style="font-size:4px;">UiPath Academy project automating the generation of yearly reports</span> | ![UiPath](https://img.shields.io/badge/UiPath-orange) ![Academy Project](https://img.shields.io/badge/Academy_Project-blue)
+
+## [RE Framework without Queue](https://github.com/yourusername/yourrepo) - 
+<span style="font-size:4px;">UiPath template for implementing RE Framework without using queues</span> | ![UiPath](https://img.shields.io/badge/UiPath-orange) ![Template](https://img.shields.io/badge/Template-blue)
+
+## [RE Framework without Orchestrator](https://github.com/yourusername/yourrepo) - 
+<span style="font-size:4px;">UiPath template for implementing RE Framework without using Orchestrator</span> | ![UiPath](https://img.shields.io/badge/UiPath-orange) ![Template](https://img.shields.io/badge/Template-blue)
+
+## [Robotic Enterprises Framework Linear Process](https://github.com/yourusername/yourrepo) - 
+<span style="font-size:4px;">UiPath template for implementing a linear process using the Robotic Enterprises Framework</span> | ![UiPath](https://img.shields.io/badge/UiPath-orange) ![Template](https://img.shields.io/badge/Template-blue)
